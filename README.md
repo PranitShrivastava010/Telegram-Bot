@@ -3,7 +3,6 @@
 
 Welcome to **Pranit's Telegram Bot** – a stylish and functional Telegram bot that responds to the `/start` command with a custom photo and an interactive message to connect with the developer!
 
-![Bot Banner](https://i.imgur.com/vT0zlJp.png)
 
 ---
 
