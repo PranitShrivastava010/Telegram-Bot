@@ -39,7 +39,7 @@ async function sendPhoto(chatId, imageUrl, caption="") {
     if(!response.ok) throw new Error(data.description || "Failed to send photo");
 }
 
-app.post("/new-message", async function (req, res) {
+app.post("/", async function (req, res) {
     const {message}= req.body;
 
     if(!message || !message.text) return res.send("invalid message");
