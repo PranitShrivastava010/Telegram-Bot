@@ -3,6 +3,14 @@
 
 Welcome to **Pranit's Telegram Bot** – a stylish and functional Telegram bot that responds to the `/start` command with a custom photo and an interactive message to connect with the developer!
 
+## 🤖 Telegram Bot
+
+You can interact with my Telegram bot here:
+
+👉 [Start the Bot](https://t.me/Pranit_marcos_bot)
+
+Feel free to use it for a quick introduction, and don't forget to check out my GitHub and LinkedIn profiles through the bot!
+
 
 ---
 
